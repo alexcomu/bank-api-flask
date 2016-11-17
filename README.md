@@ -18,7 +18,7 @@ Clone the repo, create a virtualenv and install the requirements:
 
 Just:
 
-    python app.py
+    python server.py
 
 ## Route
 

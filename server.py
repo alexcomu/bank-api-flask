@@ -32,5 +32,5 @@ api.add_resource(Bank, "/banks")
 api.add_resource(Data, "/data/<int:bank_id>")
 
 if __name__ == '__main__':
-    app.run(debug = True)
+    app.run(debug = True, host='0.0.0.0', port=5000)
 
