@@ -2,4 +2,5 @@ envFlask
 *.swp
 *.pyc
 .idea
+.DS_Store
 
